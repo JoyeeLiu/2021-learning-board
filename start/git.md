@@ -1,4 +1,4 @@
-#### Git初始化本地已有项目,并推送到远端Git仓库操作
+#### 一、Git初始化本地已有项目,并推送到远端Git仓库操作
 
 1. 创建本地项目，在项目根目录执行git init命令
 ` git init `
@@ -28,7 +28,7 @@
        git push --set-upstream origin master
       ```
 
-#### push
+#### 二、push
 
 `git add .`
 
@@ -42,7 +42,7 @@ add后面加了一个点，是想要提交所有文件，如果想提交指定�
 
    
 
-#### start主要参考：
+#### 三、start主要参考：
 
 开始：
 
