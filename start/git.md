@@ -40,7 +40,7 @@ add后面加了一个点，是想要提交所有文件，如果想提交指定�
 
 `git push git@github.com:bxxfighting/NowToDo.git`
 
-   
+``` git push git@github.com:JoyeeLiu/2021-learning-board.git ```   
 
 #### start主要参考：
 
